@@ -4,13 +4,13 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC0kVuoxD6K87PHf5ExBbqFEDfFVRtqEKg",
-  authDomain: "hidden-msg.firebaseapp.com",
-  projectId: "hidden-msg",
-  storageBucket: "hidden-msg.appspot.com",
-  messagingSenderId: "532913752675",
-  appId: "1:532913752675:web:ec0a175ebc0712ba228656",
-  measurementId: "G-TJECT61PDQ"
+  apiKey: "AIzaSyAR_oKXrl1n2boubrKHt6IO1PrLKXVmGQk",
+  authDomain: "hidden-msg-3a5e6.firebaseapp.com",
+  projectId: "hidden-msg-3a5e6",
+  storageBucket: "hidden-msg-3a5e6.appspot.com",
+  messagingSenderId: "113872256135",
+  appId: "1:113872256135:web:dba5ca2687edb44ea74c22",
+  measurementId: "G-P5YWWCLCN0"
 };
 
 const app = initializeApp(firebaseConfig);
